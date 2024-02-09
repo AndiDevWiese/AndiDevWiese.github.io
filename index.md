@@ -10,7 +10,7 @@ Der Charakter geht zum Ziel. Das Ziel kann ein anderer Viewer oder ein Ort sein.
 
 ### !schau [Ziel]
 
-Der Charakter schaut zum Ziel. Das Ziel kann ein andere Viewer, ein Ort oder "weg" sein. `!schau weg` lässt das Tier um 180° drehen.
+Der Charakter schaut zum Ziel. Das Ziel kann ein andere Viewer, ein Ort, "kamera" oder "weg" sein. `!schau kamera` lässt das Tier zur Kamera schauen. `!schau weg` lässt das Tier um 180° drehen.
 
 ### !tu [Aktion]
 
