@@ -12,6 +12,10 @@ Der Charakter geht zum Ziel. Das Ziel kann ein anderer Viewer oder ein Ort sein.
 
 Der Charakter schaut zum Ziel. Das Ziel kann ein andere Viewer, ein Ort oder "weg" sein. `!schau weg` lässt das Tier um 180° drehen.
 
+### !tu [Aktion]
+
+Der Charakter führt die angegebene Aktion aus.
+
 ### !werd [Tier]
 
 Der Charakter wird zum angegebenen Tier.
@@ -25,42 +29,42 @@ Auf der Wiese befindet sich ein Fußballfeld. Mit `!geh fussball` kommt man zu d
 - Mitte
 - Tor
 
-**Wichtig:** Nicht jedes Tier kann die Aktion `kicken` ausführen.
+**Wichtig:** Nicht jedes Tier kann die Aktion `kicken` ausführen. Für eine Liste der Tiere, die kicken können, schau in der Tierliste nach ⚽.
 
 ## Referenz
 
 ### Tiere
 
-Folgende Tiere werden derzeit unterstützt:
+Folgende Tiere werden derzeit unterstützt. Tiere, die `kicken` können, sind mit ⚽ markiert:
 
 - Affe
 - Bär
 - Elch
-- Elefant
-- Eule
+- Elefant ⚽
+- Eule ⚽
 - Fuchs
 - Frosch
-- Giraffe
+- Giraffe ⚽
 - Gorilla
-- Hamster
+- Hamster ⚽
 - Hase
-- Hippo
+- Hippo ⚽
 - Huhn
-- Hund
-- Katze
-- Krokodil
+- Hund ⚽
+- Katze ⚽
+- Krokodil ⚽
 - Kuh
 - Lemur
-- Löwe
+- Löwe ⚽
 - Mandrill
 - Pferd
-- Ratte
+- Ratte ⚽
 - Reh
 - Schaf
-- Schildkröte
+- Schildkröte ⚽
 - Schwein
 - Stier
-- Tiger
+- Tiger ⚽
 - Tukan
 - Wolf
 
@@ -75,9 +79,10 @@ Folgende Orte sind auf der Wiese vorhanden:
 
 ### Aktionen
 
-Mit dem Befehl "!tu" kann der Spieler folgende Aktionen ausführen:
+Mit dem Befehl `!tu` kann der Spieler folgende Aktionen ausführen:
 
 - Ärgern
 - Freuen
 - Hüpfen
+- Kicken
 - Rollen
