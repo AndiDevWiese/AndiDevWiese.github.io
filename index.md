@@ -27,7 +27,12 @@ Auf der Wiese befindet sich ein Fußballfeld. Mit `!geh fussball` kommt man zu d
 - Ball
 - Ecke
 - Mitte
-- Tor
+- TorPink
+- TorGrün
+- EckeOrange
+- EckeBlau
+- EckeGelb
+- EckeRot
 
 **Wichtig:** Nicht jedes Tier kann die Aktion `kicken` ausführen. Für eine Liste der Tiere, die kicken können, schau in der Tierliste nach ⚽.
 
