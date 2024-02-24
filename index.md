@@ -36,6 +36,10 @@ Auf der Wiese befindet sich ein Fußballfeld. Mit `!geh fussball` kommt man zu d
 
 **Wichtig:** Nicht jedes Tier kann die Aktion `kicken` ausführen. Für eine Liste der Tiere, die kicken können, schau in der Tierliste nach ⚽.
 
+### !team [Teamname]
+
+Man kann entweder dem grünen (`!team grün`) oder dem pinken (`!team pink`) Team beitreten. Sobald ein Tier einem Team beigetreten ist, wird in der Bildschirmmitte der aktuelle Spielstand angezeigt. Ein Tier kann nur zu dem Tor des eigenen Teams gehen.
+
 ## Referenz
 
 ### Tiere
